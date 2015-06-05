@@ -1,4 +1,4 @@
-<acceptance-test-run title="Looking up the definition of &apos;Thucydides&apos;" name="Looking up the definition of &apos;Thucydides&apos;" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="26576" timestamp="2015-06-04T23:34:53.992-04:00">
+<acceptance-test-run title="Looking up the definition of &apos;Thucydides&apos;" name="Looking up the definition of &apos;Thucydides&apos;" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="44229" timestamp="2015-06-05T17:46:52.478-04:00">
   <user-story id="com.mysearch.requirements.Application.Search.SearchByKeyword" name="Search by keyword" path="com.mysearch.requirements.Application.Search">
     <feature id="com.mysearch.requirements.Application.Search" name="Search"/>
   </user-story>
@@ -10,7 +10,7 @@
     <screenshots>
       <screenshot image="cd1209c09a214f723e73e2c11f48b7f8_NONE.png"/>
     </screenshots>
-    <test-step result="SUCCESS" duration="14879">
+    <test-step result="SUCCESS" duration="27623">
       <screenshots>
         <screenshot image="cd1209c09a214f723e73e2c11f48b7f8_NONE.png"/>
       </screenshots>
@@ -25,13 +25,13 @@
       <screenshots>
         <screenshot image="cd1209c09a214f723e73e2c11f48b7f8_NONE.png"/>
       </screenshots>
-      <test-step result="SUCCESS" duration="3290">
+      <test-step result="SUCCESS" duration="4236">
         <screenshots>
           <screenshot image="44ca62ecaee38769474f59f188911bba_NONE.png"/>
         </screenshots>
         <description>Enters: &lt;span class=&apos;step-parameter&apos;&gt;Thucydides&lt;/span&gt;</description>
       </test-step>
-      <test-step result="SUCCESS" duration="3837">
+      <test-step result="SUCCESS" duration="4542">
         <screenshots>
           <screenshot image="44ca62ecaee38769474f59f188911bba_NONE.png"/>
           <screenshot image="0cbafd9fd8a349d773af0ed41e5f3eca_NONE.png"/>
@@ -44,8 +44,9 @@
     <screenshots>
       <screenshot image="0cbafd9fd8a349d773af0ed41e5f3eca_NONE.png"/>
     </screenshots>
-    <test-step result="SUCCESS" duration="1299">
+    <test-step result="SUCCESS" duration="2221">
       <screenshots>
+        <screenshot image="fbaa9629e0b8de15cfb27ee9ce8b2810_NONE.png"/>
         <screenshot image="0cbafd9fd8a349d773af0ed41e5f3eca_NONE.png"/>
       </screenshots>
       <description>Should see definition: &lt;span class=&apos;step-parameter&apos;&gt;(c. 460 BC – c. 395 BC) A great ancient Greek historian and author of the History of the Peloponnesian War, which recounts the 5th century BC war between Sparta and Athens to the year 411 BC&lt;/span&gt;</description>

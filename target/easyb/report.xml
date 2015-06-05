@@ -1,7 +1,7 @@
-<easyb time='Thu Jun 04 23:35:28 EDT 2015' totalbehaviors='1' totalfailedbehaviors='0' totalpendingbehaviors='0' executionTime='42221'>
-  <stories scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='42221'>
-    <story name='lookup a definition' scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='42221'>
-      <scenario name='Looking up the definition of &apos;Thucydides&apos;' result='success' executionTime='26601'>
+<easyb time='Fri Jun 05 17:47:46 EDT 2015' totalbehaviors='1' totalfailedbehaviors='0' totalpendingbehaviors='0' executionTime='72733'>
+  <stories scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='72733'>
+    <story name='lookup a definition' scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='72733'>
+      <scenario name='Looking up the definition of &apos;Thucydides&apos;' result='success' executionTime='44355'>
         <given name='the user is on the Wikionary home page' result='success' />
         <when name='the end user looks up the definition of the word &apos;Thucydides&apos;' result='success' />
         <then name='they should see the definition of &apos;Thucydides' result='success' />
